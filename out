@@ -1,0 +1,432 @@
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.0625x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.0625x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.125x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.125x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.25x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.25x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.5x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.5x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/2x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/2x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/4x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/4x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/8x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/8x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/16x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/16x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.0625x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.0625x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.125x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.125x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.25x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.25x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.5x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.5x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/2x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/2x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/4x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/4x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/8x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/8x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/16x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/16x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.0625x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.0625x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.125x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.125x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.25x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.25x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.5x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.5x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/2x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/2x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/4x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/4x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/8x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/8x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/16x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/16x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.0625x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.0625x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.125x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.125x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.25x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.25x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.5x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.5x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/2x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/2x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/4x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/4x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/8x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/8x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/16x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/16x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.0625x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.0625x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.125x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.125x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.25x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.25x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.5x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.5x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/2x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/2x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/4x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/4x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/8x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/8x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/16x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/16x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.0625x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.0625x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.125x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.125x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.25x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.25x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.5x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.5x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/2x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/2x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/4x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/4x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/8x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/8x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/16x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/16x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.0625x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.0625x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.125x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.125x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.25x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.25x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.5x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.5x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/2x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/2x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/4x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/4x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/8x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/8x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/16x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/16x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.0625x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.0625x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.125x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.125x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.25x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.25x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.5x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.5x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/2x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/2x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/4x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/4x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/8x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/8x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/16x/counters.workload_1.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/16x/out.workload_1.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.0625x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.0625x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.125x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.125x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.25x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.25x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.5x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.5x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/2x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/2x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/4x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/4x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/8x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/8x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/16x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/16x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.0625x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.0625x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.125x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.125x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.25x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.25x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.5x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.5x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/2x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/2x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/4x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/4x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/8x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/8x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/16x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/16x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.0625x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.0625x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.125x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.125x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.25x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.25x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.5x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.5x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/2x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/2x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/4x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/4x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/8x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/8x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/16x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/16x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.0625x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.0625x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.125x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.125x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.25x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.25x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.5x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.5x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/2x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/2x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/4x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/4x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/8x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/8x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/16x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/16x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.0625x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.0625x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.125x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.125x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.25x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.25x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.5x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.5x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/2x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/2x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/4x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/4x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/8x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/8x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/16x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/16x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.0625x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.0625x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.125x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.125x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.25x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.25x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.5x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.5x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/2x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/2x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/4x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/4x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/8x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/8x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/16x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/16x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.0625x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.0625x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.125x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.125x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.25x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.25x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.5x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.5x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/2x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/2x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/4x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/4x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/8x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/8x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/16x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/16x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.0625x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.0625x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.125x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.125x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.25x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.25x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.5x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.5x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/2x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/2x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/4x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/4x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/8x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/8x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/16x/counters.workload_2.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/16x/out.workload_2.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.0625x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.0625x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.125x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.125x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.25x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.25x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.5x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/0.5x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/2x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/2x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/4x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/4x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/8x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/8x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/16x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/fcfs/16x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.0625x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.0625x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.125x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.125x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.25x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.25x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.5x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/0.5x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/2x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/2x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/4x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/4x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/8x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/8x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/16x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/1map/rr/16x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.0625x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.0625x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.125x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.125x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.25x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.25x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.5x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/0.5x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/2x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/2x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/4x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/4x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/8x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/8x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/16x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/fcfs/16x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.0625x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.0625x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.125x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.125x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.25x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.25x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.5x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/0.5x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/2x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/2x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/4x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/4x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/8x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/8x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/16x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/2map/rr/16x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.0625x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.0625x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.125x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.125x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.25x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.25x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.5x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/0.5x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/2x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/2x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/4x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/4x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/8x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/8x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/16x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/fcfs/16x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.0625x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.0625x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.125x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.125x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.25x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.25x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.5x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.5x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/2x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/2x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/4x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/4x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/8x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/8x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/16x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/16x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.0625x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.0625x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.125x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.125x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.25x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.25x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.5x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/0.5x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/2x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/2x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/4x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/4x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/8x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/8x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/16x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/fcfs/16x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.0625x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.0625x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.125x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.125x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.25x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.25x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.5x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/0.5x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/2x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/2x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/4x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/4x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/8x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/8x/out.workload_3.all
+
+rm -rf /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/16x/counters.workload_3.job.all /p/lustre1/bhowmik1/Result/outputs/ftree/8map/rr/16x/out.workload_3.all
+

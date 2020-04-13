@@ -1,0 +1,8 @@
+#!/bin/bash
+#MSUB -l nodes=1
+#MSUB -l walltime=23:59:00
+#MSUB -q pbatch
+#MSUB -A pave
+#MSUB -o /p/lustre1/bhowmik1/output-fatree.log
+srun -N1 -n1 /g/g92/bhowmik1/installCatalyst/TraceR/tracer/traceR --sync=1 --nkp=256 --extramem=1000000 --max-opt-lookahead=1000000 --avl-size=21 --lp-io-dir=/p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.0625x/counters.workload_2.job.all  -- /p/lustre1/bhowmik1/Result/netconfs/ftree/4map/rr/0.0625x/conf /p/lustre1/bhowmik1/Result/workloads/workload_2.all > /p/lustre1/bhowmik1/Result/outputs/ftree/4map/rr/0.0625x/out.workload_2.all &
+wait

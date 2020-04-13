@@ -1,0 +1,81 @@
+netconfs:
+    fat-tree:
+        quartz:
+            model-net:
+                repetitions : 128
+                server : 16
+                modelnet_fattree : 16
+                fattree_switch : 3
+            params:
+                ft_type : 0
+                packet_size : 4096
+                chunk_size : 4096
+                message_size : 512
+                modelnet_scheduler : 'fcfs'
+                num_rails : 1
+                modelnet_order : 'fattree'
+                num_levels : 3
+                switch_count : 128
+                switch_radix : 32
+                router_delay : 0
+                num_injection_queues : 1
+                node_copy_queues : 1
+                tapering : 1
+                soft_delay : 0
+                nic_delay : 0
+                nic_seq_delay : 0
+                rdma_delay : 0
+                vc_size : 32768
+                cn_vc_size : 32768
+                link_bandwidth : 11.9
+                intra_bandwidth : 10
+                cn_bandwidth : 11.9
+                eager_limit : 64000
+                copy_per_byte : 0
+                rail_select : 'dedicated'
+                rail_select_limit : 8192
+                routing : 'adaptive'
+                dump_topo : 0
+    dfly:
+        quartz:
+            model-net:
+                repetitions : 256
+                server : 8
+                modelnet_dragonfly_custom : 8
+                modelnet_dragonfly_custom_router : 1
+            params:
+                message_size : 736
+                packet_size : 4096
+                chunk_size : 4096
+                chunks_per_packet : 1
+                num_router_rows : 1
+                num_row_chans : 1
+                num_col_chans : 1
+                modelnet_scheduler : 'fcfs'
+                nic_delay : 0
+                nic_seq_delay : 0
+                num_injection_queues : 1
+                node_copy_queues : 4
+                intra_bandwidth : 10
+                router_delay : 0
+                adaptive_threshold : 0
+                minimal-bias : 1
+                df-dally-vc : 1
+                inter-group-connections : 'inter.bin'
+                intra-group-connections : 'intra.bin'
+                num_global_channels : 8
+                num_cns_per_router : 8
+                num_groups : 16
+                num_router_cols : 16
+                routing : 'prog-adaptive'
+                local_bandwidth : 11.9
+                global_bandwidth : 11.9
+                cn_bandwidth : 11.9
+                local_vc_size : 32768
+                global_vc_size : 32768
+                cn_vc_size : 32768
+                soft_delay : 0
+                rdma_delay : 0
+                eager_limit : 64000
+                copy_per_byte : 0
+                node_eager_limit : 64000
