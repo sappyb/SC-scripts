@@ -8,7 +8,7 @@ s = ['1map', '2map', '4map', '8map']
 t = ['fcfs', 'rr']
 u = ['0.0625x', '0.125x', '0.25x', '0.5x', 'x', '2x', '4x', '8x', '16x'] 
 '''
-q = ['workload_1']
+q = ['workload_1', 'workload_2']
 r = ['ftree']
 s = ['1map']
 t = ['fcfs']
@@ -75,7 +75,11 @@ for j in r:
 df_1 = pd.DataFrame(workload_1_list, columns = column_1)
 df_2 = pd.DataFrame(workload_2_list, columns = column_2)
 df_3 = pd.DataFrame(workload_3_list, columns = column_3)
-#print(df_1[0].str.split("/",expand=True))
 df_1[['i','p','lustre1','bhowmik1','Result','outputs','Topology','Mapping','Scheduling','Bandwidth','workload']] = df_1.Location.apply( lambda x: pd.Series(str(x).split("/")))
 df_1.drop(['Location','i','p','lustre1','bhowmik1','Result','outputs'], axis=1, inplace=True)
+df_2[['i','p','lustre1','bhowmik1','Result','outputs','Topology','Mapping','Scheduling','Bandwidth','workload']] = df_2.Location.apply( lambda x: pd.Series(str(x).split("/")))
+df_2.drop(['Location','i','p','lustre1','bhowmik1','Result','outputs'], axis=1, inplace=True)
+df_3[['i','p','lustre1','bhowmik1','Result','outputs','Topology','Mapping','Scheduling','Bandwidth','workload']] = df_3.Location.apply( lambda x: pd.Series(str(x).split("/")))
+df_3.drop(['Location','i','p','lustre1','bhowmik1','Result','outputs'], axis=1, inplace=True)
+
 print(df_1)
