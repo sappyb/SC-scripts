@@ -34,9 +34,18 @@ for j in r:
                             print(line)
                             h = regex_name.findall(line)
                             ij = regex_time.findall(line)
-                            print(h)
-                            print(ij)
-                    
+                            job = ''
+                            if h:
+                                job = h[0][2] + h[0][1]
+                                jobs.append(job)
+                            if ij:
+                                jobTime.append(ij[0][1])
+                            if job != '':
+                                if jobDict.get(job) == None:
+                                    jobDict[job] = int(ij[0][1])
+                            else:
+                                jobDict[job] = (jobDict[job] + int(ij[0][1]))/2
+
                             
 
                             
