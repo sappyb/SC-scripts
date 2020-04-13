@@ -50,8 +50,8 @@ for j in r:
                     if i == 'workload_1':
                         fullList = []
                         fullList.append(fullDesc)
-                        for i, j in zip(jobs, jobTime):
-                            fullList.append(j) 
+                        for pq, rs in zip(jobs, jobTime):
+                            fullList.append(rs) 
                         workload_1_list.append(fullList)
                     elif i == 'workload_2':
                         workload_2_list.append([fullDesc, jobs, jobTime])
