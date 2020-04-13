@@ -65,3 +65,4 @@ df_2 = pd.DataFrame(workload_2_list)
 df_3 = pd.DataFrame(workload_3_list)
 
 df_1[['p','lustre1','bhowmik1','Result','outputs','Topology','Mapping','Scheduling','Bandwidth','workload']] = df_1[0].str.split("/",expand=True)
+print(df_1)
