@@ -34,7 +34,6 @@ for j in r:
                     print(outfile)
                     with open(outfile,'r') as fp:
                         for line in fp.readlines():
-                            print(line)
                             h = regex_name.findall(line)
                             ij = regex_time.findall(line)
                             job = ''
