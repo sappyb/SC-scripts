@@ -40,11 +40,11 @@ for j in r:
                                 jobs.append(job)
                             if ij:
                                 jobTime.append(ij[0][1])
-                            if job != '':
-                                if jobDict.get(job) == None:
-                                    jobDict[job] = int(ij[0][1])
-                            else:
-                                jobDict[job] = (jobDict[job] + int(ij[0][1]))/2
+#                            if job != '':
+#                                if jobDict.get(job) == None:
+#                                    jobDict[job] = int(ij[0][1])
+#                            else:
+#                                jobDict[job] = (jobDict[job] + int(ij[0][1]))/2
                     if i == 'workload_1':
                             workload_1_list.append([fullDesc, jobs, jobTime])
                     elif i == 'workload_2':
