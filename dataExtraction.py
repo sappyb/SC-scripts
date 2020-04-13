@@ -19,39 +19,31 @@ workload_2_list = []
 workload_3_list = []
 
 for j in r:
-	for k in s:
-		for l in t:
-			for m in u:
-				jobDict = {}
-				for i in q:
-					jobs = []
-					jobTime = []
-					outfile="{}/{}/{}/{}/{}/{}/out.{}.all".format(p, 'outputs', j, k, l, m, i)
-					fullDesc="{}/{}/{}/{}/{}/{}/{}".format(p, 'outputs', j, k, l, m, i)
-					print(outfile)
-					with open(outfile,'r') as fp:
-						for line in fp.readlines():
-							print(line)
-							h = regex_name.findall(line)
-							ij = regex_time.findall(line)
-							print(h)
-							print(ij)
-'''
-							job = h[2] + h[1]
-							if h:
-								jobs.append(job)
-							if ij:
-								jobTime.append(ij[1])
+    for k in s:
+        for l in t:
+            for m in u:
+                jobDict = {}
+                for i in q:
+                    jobs = []
+                    jobTime = []
+                    outfile="{}/{}/{}/{}/{}/{}/out.{}.all".format(p, 'outputs', j, k, l, m, i)
+                    fullDesc="{}/{}/{}/{}/{}/{}/{}".format(p, 'outputs', j, k, l, m, i)
+                    print(outfile)
+                    with open(outfile,'r') as fp:
+                        for line in fp.readlines():
+                            print(line)
+                            h = regex_name.findall(line)
+                            ij = regex_time.findall(line)
+                            print(h)
+                            print(ij)
+                    
+                            
 
-							if jobDict.get(job) == None:
-								jobDict[job] = int(ij[1])
-							else:
-								jobDict[job] = (jobDict[job] + int(ij[1]))/2
-'''
-					if i == 'workload_1':
-						workload_1_list.append([fullDesc, jobs, jobTime])
-					elif i == 'workload_2':
-						workload_2_list.append([fullDesc, jobs, jobTime])
-					elif i == 'workload_3':
-						workload_3_list.append([fullDesc, jobs, jobTime])
+                            
+                    if i == 'workload_1':
+                            workload_1_list.append([fullDesc, jobs, jobTime])
+                    elif i == 'workload_2':
+                        workload_2_list.append([fullDesc, jobs, jobTime])
+                    elif i == 'workload_3':
+                        workload_3_list.append([fullDesc, jobs, jobTime])
 print(workload_1_list)
