@@ -46,7 +46,11 @@ for j in r:
 #                            else:
 #                                jobDict[job] = (jobDict[job] + int(ij[0][1]))/2
                     if i == 'workload_1':
-                            workload_1_list.append([fullDesc, jobs, jobTime])
+                        fullList = []
+                        fullList.append(fullDesc)
+                        for i, j in zip(jobs, jobTime):
+                           fullList.append(j) 
+                        workload_1_list.append(fullList)
                     elif i == 'workload_2':
                         workload_2_list.append([fullDesc, jobs, jobTime])
                     elif i == 'workload_3':
