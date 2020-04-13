@@ -1,4 +1,5 @@
 import re
+import pandas as pd
 p = '/p/lustre1/bhowmik1/Result'
 '''
 q = ['workload_1', 'workload_2', 'workload_3']
@@ -17,7 +18,9 @@ regex_name = re.compile('Job (\d+) - ranks (\d+), trace folder [^\n]*/(\w+(?:-\w
 workload_1_list = []
 workload_2_list = []
 workload_3_list = []
-
+column_1 = []
+column_2 = []
+column_3 = []
 for j in r:
     for k in s:
         for l in t:
@@ -49,10 +52,12 @@ for j in r:
                         fullList = []
                         fullList.append(fullDesc)
                         for i, j in zip(jobs, jobTime):
-                           fullList.append(j) 
+                            fullList.append(j) 
                         workload_1_list.append(fullList)
                     elif i == 'workload_2':
                         workload_2_list.append([fullDesc, jobs, jobTime])
                     elif i == 'workload_3':
                         workload_3_list.append([fullDesc, jobs, jobTime])
+dfObj = pd.DataFrame(workload_1_list)
+print(dfObj)
 print(workload_1_list)
