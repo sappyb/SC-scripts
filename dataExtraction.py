@@ -42,11 +42,6 @@ for j in r:
                                 jobs.append(job)
                             if ij:
                                 jobTime.append(ij[0][1])
-#                            if job != '':
-#                                if jobDict.get(job) == None:
-#                                    jobDict[job] = int(ij[0][1])
-#                            else:
-#                                jobDict[job] = (jobDict[job] + int(ij[0][1]))/2
                     if i == 'workload_1':
                         fullList = []
                         fullList.append(fullDesc)
@@ -54,9 +49,19 @@ for j in r:
                             fullList.append(rs) 
                         workload_1_list.append(fullList)
                     elif i == 'workload_2':
-                        workload_2_list.append([fullDesc, jobs, jobTime])
+                        fullList = []
+                        fullList.append(fullDesc)
+                        for pq, rs in zip(jobs, jobTime):
+                            fullList.append(rs) 
+                        workload_2_list.append(fullList)
                     elif i == 'workload_3':
-                        workload_3_list.append([fullDesc, jobs, jobTime])
-dfObj = pd.DataFrame(workload_1_list)
-print(dfObj)
-print(workload_1_list)
+                        fullList = []
+                        fullList.append(fullDesc)
+                        for pq, rs in zip(jobs, jobTime):
+                            fullList.append(rs) 
+                        workload_3_list.append(fullList)
+df_1 = pd.DataFrame(workload_1_list)
+df_2 = pd.DataFrame(workload_2_list)
+df_3 = pd.DataFrame(workload_3_list)
+
+df_1[['p','lustre1','bhowmik1','Result','outputs','Topology','Mapping','Scheduling','Bandwidth','workload']] = df_1[0].str.split("/",expand=True)
