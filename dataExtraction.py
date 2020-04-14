@@ -41,7 +41,7 @@ for j in r:
                             ij = regex_time.findall(line)
                             job = ''
                             if h:
-                                job = h[0][2] + h[0][1]
+                                job = h[0][2] + '_' +h[0][1]
                                 jobs.append(job)
                             if ij:
                                 jobTime.append(ij[0][1])
